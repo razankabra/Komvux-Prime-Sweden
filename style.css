@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.main-header {
+    
+    background-image: url("child-lies-grass-with-easter-eggs-hare_73683-242.jpg");
+    background-size: cover;
+    padding-bottom: 100px;
+}
+
+
+.main-nav li {
+    display: inline;
+    padding: 0 5%;
+  
+}
+
+
+ a {
+    
+    padding: 5px;
+    margin: 0;
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.name {
+    text-align: center;
+    margin: 0;
+    font-size: 4px;
+    font-family: "Booter - Zero Zero";
+    color: white;
+    font-size: 2em;
+}
+
+
+
+.xx {
+    border: solid;
+    
+}
+
+
+.container1 {
+    padding: 30px;  
+    background-color: #fff; 
+    margin-top: 30px;
+}
+
+.shop-items {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around; 
+    margin: 30px;
+}
+
+
+
+.title {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.shop-item-image {
+    height: 250px;
+}
+
+
+
+
+
+
+
+
